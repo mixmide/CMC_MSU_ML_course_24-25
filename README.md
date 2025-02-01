@@ -1,2 +1,2 @@
-# CMC_MSU_ML_course_24-25
-A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
+# Курс Machine Learning, МГУ, 2024-2025
+Здесь находятся мои домашние работы по годовому курсу ML от МГУ.
